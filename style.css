@@ -1,0 +1,38 @@
+body {
+    background: #E5EBB2;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #FF8787;
+  }
+  
+  h3 {
+    display: none;
+    width: 50%;
+    margin: auto;
+    font-weight: bold;
+    background: #fff;
+    padding: 10px 20px;
+  }
+  
+  input {
+    display: block;
+    width: 80%;
+    margin: 10px auto;
+    padding: 10px;
+    box-sizing: border-box;
+    border: none;
+    line-height: 1.5;
+  }
+  
+  button {
+    background: #BCE29E;
+    padding: 10px 20px;
+    border: #0000FF;
+    border-radius: 5px;
+    margin-top: 5px;
+    font-weight: bold;
+  }
